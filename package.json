@@ -1,4 +1,11 @@
 {
+  "name": "personal-site",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "node node_modules/vitepress/bin/vitepress.js build docs",
+    "preview": "vitepress preview docs"
+  },
   "devDependencies": {
     "vitepress": "^1.6.4"
   }
