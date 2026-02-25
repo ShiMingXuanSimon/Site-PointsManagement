@@ -9,7 +9,7 @@
 ---
 ---
 
-# ClassScoreManageSystem
+# Brand New PointsManagement
 
 Install this APP on the computer in the class, and use points to make students progress.
 
@@ -19,4 +19,4 @@ The code is not all written by me, but the other person (he is my classmate) doe
   
   ---
   联系：shimingxuansimon@qq.com  
-  最后修改：2026/2/6 14:53
+  最后修改：2026/2/25 9:49
